@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEMO_Bird_Detection_System", "DEMO_BirdDetectionSystem\DEMO_Bird_Detection_System.csproj", "{9ADB5047-87B0-419A-9D5D-3699FAE2F811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ADB5047-87B0-419A-9D5D-3699FAE2F811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ADB5047-87B0-419A-9D5D-3699FAE2F811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ADB5047-87B0-419A-9D5D-3699FAE2F811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ADB5047-87B0-419A-9D5D-3699FAE2F811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {006F559B-99C7-4C0E-A2E8-B742CE366C92}
+	EndGlobalSection
+EndGlobal
